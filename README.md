@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vladimir</h1>
-<h3 align="center">A beginner frontend developer from Russia</h3>
+<h3 align="center">A beginner web developer from Russia</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JS, PHP, SQL**
 
