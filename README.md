@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vladimir</h1>
 <h3 align="center">A beginner web developer from Russia</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, JS, PHP, SQL**
+- 🌱 I’m currently learning **HTML, CSS, JS, PHP, SQL, BITRIX**
 
 - 📫 How to reach me **vladimirr.m@yandex.ru**
 
